@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/piceditor)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/piceditor?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/piceditor?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/shankarsharma507/digital-image-processing)
+  ![GitHub stars](https://img.shields.io/github/stars/shankarsharma507/digital-image-processing?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/shankarsharma507/digital-image-processing?style=social)
 
   <br />
 
@@ -10,7 +10,7 @@
 
   Responsive PicEditor using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/piceditor/"><strong>➥ Live Demo</strong></a>
+  <a href="https://shankarsharma507.github.io/digital-image-processing/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -71,13 +71,13 @@ To run **PicEditor** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/piceditor.git
+sudo git clone (https://github.com/shankarsharma507/digital-image-processing.git)
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/piceditor.git
+git clone (https://github.com/shankarsharma507/digital-image-processing.git)
 ```
 
 ### Contact
