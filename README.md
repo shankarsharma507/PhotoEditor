@@ -10,7 +10,7 @@
 
   Responsive PicEditor using HTML, CSS, and JavaScript.
 
-  <a href="https://shankarsharma507.github.io/digital-image-processing/"><strong>➥ Live Demo</strong></a>
+  <a href="file:///E:/projects/piceditor-main/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
