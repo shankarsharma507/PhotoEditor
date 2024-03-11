@@ -1,14 +1,8 @@
 <div align="center">
   
-<<<<<<< HEAD
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/piceditor)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/piceditor?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/piceditor?style=social)
-=======
-  ![GitHub repo size](https://img.shields.io/github/repo-size/shankarsharma507/digital-image-processing)
-  ![GitHub stars](https://img.shields.io/github/stars/shankarsharma507/digital-image-processing?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/shankarsharma507/digital-image-processing?style=social)
->>>>>>> 7959cdd51047d5c8d6ba04b6cc440870d4882108
+  ![GitHub repo size](https://img.shields.io/github/repo-size/shankarsharma507/PicEditor)
+  ![GitHub stars](https://img.shields.io/github/stars/shankarsharma507/PicEditor?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/PicEditor?style=social)
 
   <br />
 
@@ -16,11 +10,7 @@
 
   Responsive PicEditor using HTML, CSS, and JavaScript.
 
-<<<<<<< HEAD
-  <a href="https://pawantech12.github.io/piceditor/"><strong>➥ Live Demo</strong></a>
-=======
-  <a href="file:///E:/projects/piceditor-main/index.html"><strong>➥ Live Demo</strong></a>
->>>>>>> 7959cdd51047d5c8d6ba04b6cc440870d4882108
+  <a href="https://github.com/shankarsharma507/PhotoEditor/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -81,30 +71,18 @@ To run **PicEditor** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-<<<<<<< HEAD
-sudo git clone https://github.com/pawantech12/piceditor.git
-=======
-sudo git clone (https://github.com/shankarsharma507/digital-image-processing.git)
->>>>>>> 7959cdd51047d5c8d6ba04b6cc440870d4882108
+sudo git clone (https://github.com/shankarsharma507/PhotoEditor.git)
 ```
 
 Windows:
 
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/pawantech12/piceditor.git
-=======
-git clone (https://github.com/shankarsharma507/digital-image-processing.git)
->>>>>>> 7959cdd51047d5c8d6ba04b6cc440870d4882108
+git clone https://github.com/shankarsharma507/PhotoEditor.git
 ```
 
 ### Contact
 
-<<<<<<< HEAD
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
-=======
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com).
->>>>>>> 7959cdd51047d5c8d6ba04b6cc440870d4882108
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/).
 
 ### License
 
